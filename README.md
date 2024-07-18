@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-👋 Hi, I’m @bdpFON
-👀 I’m interested in AI/ML engineering
-🌱 I’m currently learning AI/ML/Cloud
-💞️ I’m looking to collaborate on AI/ML/Cloud
-📫 How to reach me carlosbilbaolara.ext@telefonica.com
-😄 Pronouns: him
-⚡ Fun fact: I love tennis
+- 👋 Hi, I’m @bdpFON
+- 👀 I’m interested in AI/ML engineering
+- 🌱 I’m currently learning AI/ML/Cloud
+- 💞️ I’m looking to collaborate on AI/ML/Cloud
+- 📫 How to reach me carlosbilbaolara.ext@telefonica.com
+- 😄 Pronouns: him
+- ⚡ Fun fact: I love tennis
 
 <!--
 **bdpTLF/bdpTLF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
