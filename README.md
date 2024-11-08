@@ -6,7 +6,7 @@
 
 ## 🔭 About Me 🔭
 
-- 🚀 **AI Engineer** at **FON**
+- 🚀 **AI Engineer** at **Telefonica**
 - 🌱 *Always learning and practicing is the key* 
 - 📨 Reach me at **carlosbilbaolara.ext@telefonica.com** or on social media
 - 🎾 **Tennis and Padel Coach and player** 
