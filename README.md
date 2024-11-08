@@ -47,7 +47,7 @@
 ### 🐍 Contribution Snake 🐍
 
 <p align="center">
-  <img src="https://github.com/Carlosbil/Carlosbil/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/bdpTLF/bdpTLF/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
