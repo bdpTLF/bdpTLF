@@ -36,11 +36,11 @@
 ### 📊 GitHub Stats 📊
 
 <p align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosbil&theme=radical" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=bdpTLF&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosbil&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdpTLF&layout=compact&theme=radical" />
 </p>
 
 ---
